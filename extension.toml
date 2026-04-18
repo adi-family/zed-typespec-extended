@@ -2,7 +2,7 @@ id = "typespec-extended"
 name = "TypeSpec Extended"
 version = "1.0.0"
 schema_version = 1
-authors = ["ADI Family <adi@the-ihor.com>"]
+authors = ["ADI Family <oss@withadi.dev>"]
 description = "TypeSpec language support with a dialect-tolerant grammar — supports the ADI plugin protocol (@plugin, @llm.tool, @llm.trigger, @validate, ...) alongside standard TypeSpec."
 repository = "https://github.com/adi-family/zed-typespec-extended"
 
